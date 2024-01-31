@@ -1,0 +1,12 @@
+{
+	"Metadata":
+	{
+		"Name": "ModUpdaterTest1",
+		"Author": "Vamack",
+        "Repo" : "vmackg/ModUpdaterTest1",
+		"Description": "Adds a test",
+		"URL": "https://google.com",
+		"ModVersion": "-211.1"
+	}
+
+}
