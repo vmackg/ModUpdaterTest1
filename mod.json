@@ -4,7 +4,7 @@
 		"Name": "ModUpdaterTest1",
 		"Author": "Vamack",
         "Repo" : "vmackg/ModUpdaterTest1",
-"CommitSha" : "",
+"ReleaseTag" : "1.1TEST",
 		"Description": "Adds a test",
 		"URL": "https://google.com",
 		"ModVersion": "-211.1"
