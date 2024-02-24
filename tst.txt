@@ -1,4 +1,4 @@
-not 1.0 !!
+not 1.1 !!
 
 
 Lemonscript is a very catchy name, isn't it ?
